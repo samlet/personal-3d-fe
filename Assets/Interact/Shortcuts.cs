@@ -48,7 +48,7 @@ public class Shortcuts : MonoBehaviour
             Debug.Log(".. press alpha 3");
             Post();
         }
-    }
+    } 
 
     public void Die()
     {
